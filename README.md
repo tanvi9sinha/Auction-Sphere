@@ -66,7 +66,7 @@ In case this throws any error, install the yarn package manager:
 And then to install all the packages, run
 `yarn`
 
-Now, to run our application, run
+Now, to run the application, run
 `npm start`
 
 ### Code coverage
@@ -76,21 +76,3 @@ Now, to run our application, run
 To run code coverage, just do:
 
 `yarn coverage`
-
-This will not only give you a detailed report on your terminal, but will also generate a .html file for the reporrt as seen here in our project:
-https://github.com/kartikson1/Auction-Sphere/blob/main/coverage/lcov-report/index.html
-
-## Roadmap
-We have a lot planned for the future! Completed tasks and future enhancements can be found [here](https://github.com/users/kartikson1/projects/1/views/1)
-
-## Group-3
-
-[Nandini Mundra](https://github.com/nandinimundra00)
-
-[Palash Rathod](https://github.com/palash27)
-
-[Shreya Maheshwari](https://github.com/ShreyaMaheshwari)
-
-[Tanvi Sinha](https://github.com/tanvi9sinha)
-
-[Kartik Soni](https://github.com/kartikson1)
